@@ -43,7 +43,6 @@ I’m a **Junior System Engineer** with a passion for **tecnology**, open-source
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vetronics&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vetronics&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vetronics&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
