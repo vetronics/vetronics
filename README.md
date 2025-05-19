@@ -7,7 +7,7 @@ I’m a **Junior System Engineer** with a passion for **tecnology**, open-source
 - Robotics & embedded systems
 - Home-lab setups and virtualization
 - Privacy and cybersecurity tools
-- Automation with Python and c++ scripts no (oop)
+- Automation with Python and c++ scripts without (OOP)
 - Tinkering with open-source hardware and software
 
 ---
