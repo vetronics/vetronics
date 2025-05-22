@@ -37,7 +37,7 @@ I’m a **Junior System Engineer** with a passion for **tecnology**, open-source
 
 # 🚀 Goals
 - Build and program autonomous robots using Arduino and sensors
-- Expand Linux administration and scripting skills 
+- Expand Linux administration and scripting skills without (OOP)
 - Set up home-lab automation with Proxmox
 
 ---
