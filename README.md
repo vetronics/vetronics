@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m a **Junior system integrator** with a passion for **tecnology**, open-source technology, and system engineering. I'm especially interested in Linux environments, lightweight virtualization, and privacy-enhancing tools. I enjoy building and programming robotics projects using Arduino and other microcontrollers, blending hardware with software to create fun and functional systems.
+I’m a **Junior System Engineer** with a passion for **tecnology**, open-source technology, and system engineering. I'm especially interested in Linux environments, lightweight virtualization, and privacy-enhancing tools. I enjoy building and programming robotics projects using Arduino and other microcontrollers, blending hardware with software to create fun and functional systems.
 
 ---
 
