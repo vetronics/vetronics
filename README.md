@@ -77,11 +77,6 @@ mindmap
 
 ## 🚀 Current Projects
 
-### Infrastructure Development
-- Automated Proxmox deployment pipelines using procedural scripts
-- Custom network security implementations with direct system calls
-- Embedded systems integration with bare metal programming
-
 ### System Optimization
 - Low-level system performance enhancements
 - Hardware-software interface solutions
