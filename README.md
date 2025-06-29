@@ -37,10 +37,9 @@ mindmap
 - **Linux Administration** 
   - System Optimization
   - Service Management
-  - Shell Scripting
 - **Embedded Systems**
   - Hardware Integration
-  - Bare Metal Programming
+  - Programming
   - Real-time Systems
 - **Virtualization**
   - Proxmox Environment
@@ -122,6 +121,5 @@ mindmap
 
 *Focused on efficient, procedural solutions in system engineering*
 
-<sub>Last Updated: 2025-06-29</sub>
 
 </div>
