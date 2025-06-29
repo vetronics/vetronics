@@ -1,33 +1,12 @@
 <div align="center">
-  
-# 👨‍💻 Systems Engineering & Technology Enthusiast
 
+# 👨‍💻 Systems Engineering & Infrastructure Specialist
 [![GitHub followers](https://img.shields.io/github/followers/vetronics?style=social)](https://github.com/vetronics)
-[![Twitter Follow](https://img.shields.io/badge/Follow-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/vetronics)
+[![Profile Views](https://visitcount.itsvg.in/api?id=vetronics&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
-## 🎯 About Me
-
-> "Building tomorrow's systems, one line of code at a time"
-
-I'm a passionate **Junior Systems Engineer** with a deep fascination for the intricate world of technology. My expertise lies in:
-
-- 🐧 Linux Systems Engineering & Administration
-- 🤖 Robotics & Embedded Systems Development
-- 🔒 Privacy-Focused Solutions & Cybersecurity
-- 🏗️ Infrastructure Automation & Scripting
-
-<details>
-<summary>🌟 What Sets Me Apart</summary>
-
-- Strong advocate for practical, efficient solutions over complexity
-- Hands-on experience with both hardware and software integration
-- Focus on security-first approach in system design
-- Passionate about open-source contributions
-</details>
-
-## 🔧 Technical Arsenal
+## 💡 Technical Focus
 
 <div align="center">
 
@@ -43,8 +22,8 @@ mindmap
     Programming
       C/C++
       Python
-      Automation
-      Data Analysis
+      Shell Scripts
+      Hardware Control
     Security
       WireGuard
       TOR
@@ -54,70 +33,100 @@ mindmap
 
 </div>
 
-### 💻 Development & Tools
-![C](https://img.shields.io/badge/C-Expert-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux)
-![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=flat-square&logo=arduino)
+### Systems Expertise
+- **Linux Administration** 
+  - System Optimization
+  - Service Management
+  - Shell Scripting
+- **Embedded Systems**
+  - Hardware Integration
+  - Bare Metal Programming
+  - Real-time Systems
+- **Virtualization**
+  - Proxmox Environment
+  - Resource Management
+  - Container Solutions
 
-### 🛡️ Security & Networking
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco)
-![WireGuard](https://img.shields.io/badge/WireGuard-Advanced-88171A?style=flat-square&logo=wireguard)
-![TOR](https://img.shields.io/badge/TOR-Proficient-7D4698?style=flat-square&logo=tor-project)
-![Proxmox](https://img.shields.io/badge/Proxmox-Expert-E57000?style=flat-square&logo=proxmox)
+### Development Approach
+> **Note:** Specialized in procedural and functional programming, without OOP dependencies
 
-### 📊 Data & Analytics
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Proficient-11557c?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas)
-![AdGuard](https://img.shields.io/badge/AdGuard-Expert-68BC71?style=flat-square&logo=adguard)
+#### Programming Style:
+- Clean, straightforward C/C++ implementations
+- Procedural Python scripting
+- Direct hardware manipulation
+- Functional programming patterns
 
-## 🎯 Current Focus
+## 🔧 Core Competencies
 
-```python
-current_projects = {
-    "Robotics": "Developing autonomous navigation systems using Arduino",
-    "Infrastructure": "Building scalable home-lab with Proxmox virtualization",
-    "Security": "Implementing privacy-focused networking solutions",
-    "Automation": "Creating efficient system management scripts"
-}
-```
+### System Engineering & Infrastructure
+- **Virtualization**: Proxmox | KVM | Container Management
+- **Architecture**: System Design | Infrastructure Planning
+- **Automation**: Procedural Scripts | Process Optimization
+- **Hardware**: Arduino | Embedded Systems | Custom Solutions
 
-## 📈 GitHub Analytics
+### Development & Tools
+![C](https://img.shields.io/badge/C-Systems_Programming-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-Procedural_Development-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-Script_Automation-3776AB?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/Linux-System_Administration-FCC624?style=flat-square&logo=linux)
+
+### Security Tools
+![WireGuard](https://img.shields.io/badge/WireGuard-Network_Security-88171A?style=flat-square&logo=wireguard)
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=flat-square&logo=proxmox)
+![TOR](https://img.shields.io/badge/TOR-Privacy_Solutions-7D4698?style=flat-square&logo=tor-project)
+
+## 🚀 Current Projects
+
+### Infrastructure Development
+- Automated Proxmox deployment pipelines using procedural scripts
+- Custom network security implementations with direct system calls
+- Embedded systems integration with bare metal programming
+
+### System Optimization
+- Low-level system performance enhancements
+- Hardware-software interface solutions
+- Privacy-focused networking tools
+- Resource-efficient automation scripts
+
+## 📈 Technical Metrics
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vetronics&theme=tokyonight&hide_border=true)](https://github.com/vetronics)
+[![GitHub Activity](https://nirzak-streak-stats.vercel.app/?user=vetronics&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&fire=1834CC&ring=1834CC&currStreakLabel=1834CC)](https://github.com/vetronics)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetronics&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vetronics)
+[![Code Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=vetronics&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1834CC&text_color=FFFFFF)](https://github.com/vetronics)
 
 </div>
 
-## 🎓 Learning Path
+## 🔬 Technical Focus Areas
 
-- 📚 Currently diving deeper into:
-  - Advanced Linux System Administration
-  - Embedded Systems Programming
-  - Network Security Protocols
-  - Infrastructure as Code (IaC)
+### Current Learning Path
+- Advanced Linux kernel customization
+- Zero-trust architecture implementation
+- Efficient procedural patterns for embedded systems
+- Scalable virtualization strategies
 
-## 🤝 Let's Connect
+### Key Interests
+- Direct hardware manipulation
+- Low-level system optimization
+- Procedural automation solutions
+- Resource-efficient implementations
+
+## 📡 Professional Network
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vetronics)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github)](https://vetronics.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vetronics)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-000000?style=for-the-badge&logo=github)](https://vetronics.github.io)
 
 </div>
 
----
-
 <div align="center">
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=vetronics&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<i>Let's build something amazing together!</i>
+`Systems` • `Security` • `Automation` • `Infrastructure`
+
+*Focused on efficient, procedural solutions in system engineering*
+
+<sub>Last Updated: 2025-06-29</sub>
 
 </div>
