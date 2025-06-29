@@ -1,52 +1,123 @@
-# 💫 About Me
-I’m a **Junior System Engineer** with a passion for **tecnology**, open-source technology, and system engineering. I'm especially interested in Linux environments, lightweight virtualization, and privacy-enhancing tools. I enjoy building and programming robotics projects using Arduino and other microcontrollers, blending hardware with software to create fun and functional systems.
+<div align="center">
+  
+# 👨‍💻 Systems Engineering & Technology Enthusiast
+
+[![GitHub followers](https://img.shields.io/github/followers/vetronics?style=social)](https://github.com/vetronics)
+[![Twitter Follow](https://img.shields.io/badge/Follow-%231DA1F2.svg?style=social&logo=Twitter)](https://twitter.com/vetronics)
+
+</div>
+
+## 🎯 About Me
+
+> "Building tomorrow's systems, one line of code at a time"
+
+I'm a passionate **Junior Systems Engineer** with a deep fascination for the intricate world of technology. My expertise lies in:
+
+- 🐧 Linux Systems Engineering & Administration
+- 🤖 Robotics & Embedded Systems Development
+- 🔒 Privacy-Focused Solutions & Cybersecurity
+- 🏗️ Infrastructure Automation & Scripting
+
+<details>
+<summary>🌟 What Sets Me Apart</summary>
+
+- Strong advocate for practical, efficient solutions over complexity
+- Hands-on experience with both hardware and software integration
+- Focus on security-first approach in system design
+- Passionate about open-source contributions
+</details>
+
+## 🔧 Technical Arsenal
+
+<div align="center">
+
+### Core Technologies
+```mermaid
+mindmap
+  root((Tech Stack))
+    Systems
+      Linux
+      Proxmox
+      Arduino
+      Embedded Systems
+    Programming
+      C/C++
+      Python
+      Automation
+      Data Analysis
+    Security
+      WireGuard
+      TOR
+      Bitwarden
+      Network Security
+```
+
+</div>
+
+### 💻 Development & Tools
+![C](https://img.shields.io/badge/C-Expert-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux)
+![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=flat-square&logo=arduino)
+
+### 🛡️ Security & Networking
+![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco)
+![WireGuard](https://img.shields.io/badge/WireGuard-Advanced-88171A?style=flat-square&logo=wireguard)
+![TOR](https://img.shields.io/badge/TOR-Proficient-7D4698?style=flat-square&logo=tor-project)
+![Proxmox](https://img.shields.io/badge/Proxmox-Expert-E57000?style=flat-square&logo=proxmox)
+
+### 📊 Data & Analytics
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Proficient-11557c?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas)
+![AdGuard](https://img.shields.io/badge/AdGuard-Expert-68BC71?style=flat-square&logo=adguard)
+
+## 🎯 Current Focus
+
+```python
+current_projects = {
+    "Robotics": "Developing autonomous navigation systems using Arduino",
+    "Infrastructure": "Building scalable home-lab with Proxmox virtualization",
+    "Security": "Implementing privacy-focused networking solutions",
+    "Automation": "Creating efficient system management scripts"
+}
+```
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vetronics&theme=tokyonight&hide_border=true)](https://github.com/vetronics)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetronics&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vetronics)
+
+</div>
+
+## 🎓 Learning Path
+
+- 📚 Currently diving deeper into:
+  - Advanced Linux System Administration
+  - Embedded Systems Programming
+  - Network Security Protocols
+  - Infrastructure as Code (IaC)
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vetronics)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=github)](https://vetronics.github.io)
+
+</div>
 
 ---
 
-# 🤖 Interests
-- Robotics & embedded systems
-- Home-lab setups and virtualization
-- Privacy and cybersecurity tools
-- Automation with Python and c++ scripts without (OOP)
-- Tinkering with open-source hardware and software
+<div align="center">
+  
+[![Profile Views](https://visitcount.itsvg.in/api?id=vetronics&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
----
+<i>Let's build something amazing together!</i>
 
-# 🛠️ Tech Stack
-
-### 💻 Programming & Data
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🖧 Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![TOR](https://img.shields.io/badge/Tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Bitwarden](https://img.shields.io/badge/Bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-
-### 🔧 System & Hardware
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white)
-![AdGuard DNS](https://img.shields.io/badge/AdGuard%20DNS-00b300?style=for-the-badge&logo=adguard&logoColor=white)
-
----
-
-# 🚀 Goals
-- Build and program autonomous robots using Arduino and sensors
-- Expand Linux administration and scripting skills without (OOP)
-- Set up home-lab automation with Proxmox
-
----
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=vetronics&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vetronics&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=vetronics&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
