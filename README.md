@@ -6,6 +6,12 @@
 
 </div>
 
+## 👋 About Me
+
+I am Vetronics, a Junior Systems Engineering & Infrastructure Specialist with a deep passion for technology, robotics, telecommunications, and server systems. I am preparing to study cybersecurity at ITS to further expand my technical expertise. My interests include everything about technical engineering, and my skills reflect my dedication to hands-on problem solving and innovative system solutions.
+
+---
+
 ## 💡 Technical Focus
 
 <div align="center">
@@ -35,13 +41,13 @@ mindmap
 </div>
 
 ### Systems Expertise
-- **Linux Administration** 
+- **Linux Administration**  
   - System optimization and service management
-- **Embedded Systems**
+- **Embedded Systems**  
   - Hardware integration and real-time programming
-- **Virtualization**
+- **Virtualization**  
   - Proxmox environment, resource management, and container solutions
-- **Web Fundamentals**
+- **Web Fundamentals**  
   - Solid foundation in HTML & CSS for static website development and UI prototyping
 
 ### Development Approach
@@ -120,7 +126,7 @@ mindmap
 ## 🔬 Technical Focus Areas
 
 ### Current Learning Path
-- Studying cybersecurity fundamentals
+- Studying cybersecurity fundamentals at ITS
 - Efficient procedural patterns for embedded systems
 - Scalable virtualization strategies
 
