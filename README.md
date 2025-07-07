@@ -130,15 +130,6 @@ mindmap
 - Procedural automation solutions
 - Resource-efficient implementations
 
-## 📡 Professional Network
-
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-000000?style=for-the-badge&logo=github)](https://vetronics.github.io)
-
-</div>
-
----
-
 <div align="center">
 
 `Systems` • `Security` • `Automation` • `Infrastructure` • `Robotics` • `Web Fundamentals`
