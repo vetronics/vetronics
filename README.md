@@ -108,7 +108,7 @@ mindmap
 - **National RoboCup 2024, Verbania (Soccer Entry):**  
   🏅 Best Design Award (Technical Prize)
 - **introduction cybersecurity by cisco network accademy**
-- i obtained a certificate about the intruduction of cybersecurity.
+- i obtained a certificate about the intruduction of cybersecurity 2024 .
 - 
 - Specialized in designing, building, and programming autonomous robots for competitive environments.
 - Focused on rapid prototyping, embedded control, team collaboration, and real-time problem-solving.
