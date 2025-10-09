@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻  Junior Systems analist & Infrastructure Specialist
+# 👨‍💻  Junior system analyst  & Infrastructure Specialist
 [![GitHub followers](https://img.shields.io/github/followers/vetronics?style=social)](https://github.com/vetronics)
 [![Profile Views](https://visitcount.itsvg.in/api?id=vetronics&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I am Vetronics, a Junior Systems analist & Infrastructure Specialist with a deep passion for technology, robotics, telecommunications, and server systems. I am preparing to study cybersecurity at ITS to further expand my technical expertise. My interests include everything about technical engineering, and my skills reflect my dedication to hands-on problem solving and innovative system solutions.
+I am Vetronics, a  Junior system analyst & Infrastructure Specialist with a deep passion for technology, robotics, telecommunications, and server systems. I am preparing to study cybersecurity at ITS to further expand my technical expertise. My interests include everything about technical engineering, and my skills reflect my dedication to hands-on problem solving and innovative system solutions.
 
 ---
 
