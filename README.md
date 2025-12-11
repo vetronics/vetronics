@@ -112,7 +112,7 @@ mindmap
 - Focused on rapid prototyping, embedded control, team collaboration, and real-time problem-solving.
   
 - **introduction cybersecurity and IOT by cisco network accademy**
- i obtained some certificates by network accadamy here you are the my Achievements   :
+- i obtained some certificates by network accadamy here you are the my Achievements   :
 - intruduction of cybersecurity in 2024   .
 - IoT and digital trasfromartion in 2025
 ---
