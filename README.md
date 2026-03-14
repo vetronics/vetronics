@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I am Vetronics, a  Junior system analyst & Infrastructure Specialist with a deep passion for technology, robotics, telecommunications, and server systems. I am preparing to study cybersecurity at ITS to further expand my technical expertise. My interests include everything about technical engineering, and my skills reflect my dedication to hands-on problem solving and innovative system solutions.
+I am Vetronics, a  Junior system analyst & Infrastructure Specialist with a deep passion for technology, robotics, telecommunications, and server systems. My interests include everything about technical engineering, and my skills reflect my dedication to hands-on problem solving and innovative system solutions.
 
 ---
 
