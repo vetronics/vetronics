@@ -130,7 +130,6 @@ mindmap
 ## 🔬 Technical Focus Areas
 
 ### Current Learning Path
-- Studying cybersecurity fundamentals at ITS
 - Efficient procedural patterns for embedded systems
 - Scalable virtualization strategies
 
