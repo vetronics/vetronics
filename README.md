@@ -101,6 +101,8 @@ mindmap
 ## 🏆 Featured Achievements & Awards
 
 ### RoboCup Junior Academy — Soccer Entry & Soccer Entry Lightweight Leagues (Robotics)
+**National RoboCup 2026, Catania (Soccer Lightweight)**
+- third place 🏅 soccer Lightweight
 - **European RoboCup 2025, Bari (Soccer Entry Lightweight):**  
   🏅 Winner, Super Team (collaborating with Croatia, Slovenia, and Italy)
 - **National RoboCup 2025, Pescara (Soccer Entry):**  
